@@ -11,12 +11,8 @@ public class IfClause {
 
         else{
             System.out.println("error");
-        }
-
-
-        
+        }   
         
     }
-
 
 }
